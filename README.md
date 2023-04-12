@@ -1,46 +1,40 @@
 <html>
 <body>
-<h1>چطور یک دی ان اس خوب داشته باشیم؟</h1>
+<h1>My Icon Pack App 1.0 (Beta)+(Debug)</h1>
+
+If you want to have an icon pack and change your phone, don't miss <strong>my icon pack</strong>. This icon pack was created and released by us, the <strong>Android.dev</strong> team. With this icon pack, you can color the icons of your apps. and make a change in your Android mobile. This icon pack is safe and you won't have any problems. You can choose your normal icon pack whenever you want. To update the program, just refer to this page. We hope you enjoy.
 <p>
- میدونیم که پینگ بالا خیلی بده و ما که تحریم هستیم نمی‌تونیم از بیشتر 
-برنامه ها استفاده کنیم و یا باید از قندشکن استفاده کنیم
 <p>
-<strong>پینگ چیست؟</strong>
 <p>
-موقعی که شما در بازی به دشمن شلیک میکنید،پینگ زمان تیر خوردن به 
-دشمن را نشان میدهد اگه پینگ سبز باشد یعنی پینگ خوب است و 
-سریعتر،تیر به دشمن میخورد اما اگر قرمز باشد یعنی تیر دیرتر به دشمن
-میخورد.
+<h1>What is the difference between <strong>Beta</strong> and <strong>Debug</strong> versions?</h1>
+<strong>Beta</strong>:
 <p>
-<strong>چطوری با پینگ پایین بازی کنیم؟</strong>
+This is a trial version, that is, this version is freely available to the public and users are testing the program. If the app has shortcomings, users send us feedback. That feedback will be reviewed and if approved we will add it to the program. (This app may have bugs and may not work for most launchers)
 <p>
-اگر میخواهید با پینگ پایین بازی کنید،از قند شکن استفاده کنید اما ما
-به شما برنامه DNS Changer را پیشنهاد میکنیم.
-قند شکن ممکنه بن بده چون بعضی از قند شکن ها مدام آی پی عوض 
-میکنند و اکانت شما بن میشه.
+<strong>Debug</strong>:
 <p>
-<strong>از چه کد هایی برای کاهش پینک استفاده کنیم؟</strong>
+This version is like the trial version, but it has a few bugs and works for most launchers. This version only works for Android <strong>9.0</strong> and above. This version may be incompatible with Android 13. If you are Android 13, test it and see the result. announce it in the comments. This version is stable and no updates will be released for it. (We suggest you download this version)
 <p>
-این برنامه هیچ بنی نمیده و تست شده.ما چند تا کد در اختیار شما
-قرار میدهیم و آن ها را در برنامه وارد کنید و لذت ببرید🙂
+<h1>When will the original version of the program be released?</h1>
+We are in the process of building the program and fixing the shortcomings of the program. The release time of the program is not yet known and we will inform you soon. For now, use the beta and Debug versions until we announce the release time of the original version. You have an impact on the early development of the program and your feedback will help the early release of the program. Give feedback now.
 <p>
-Primary Server:
-<strong>185.231.182.126</strong>
-Secondary Server:
-<strong>37.152.182.112</strong>
+<h1>Does the program have a special subscription or not?</h1>
+After much consultation with the users, we have decided to remove the paid subscription and offer it for free.
 <p>
-Primary Derver:
-<strong>85.15.1.15</strong>
- Secondary Server:
-<strong>85.15.1.14</strong>
+<h1>Link Download</h1>
+<strong>✓The download links are checked and safe</strong>
 <p>
-<strong>توجه کنید:</strong>
 <p>
-برای دریافت پینگ زیر 20،باید همه اسکواد شما از همین برنامه استفاده
-کنند،اگر یکی یا چند تا از اسکواد شما از قندشکن استفاده کنند ممکن
-است لگ زیادی بخورید و پینگ شما بالا برود.
+Beta:
+https://workupload.com/archive/z7darqmMfh
 <p>
-با تشکر از اینکه این مطلب را خواندید.خوشحال میشویم که نظرتان را
-درباره این مطلب بگویید🙂❤️
+Debug:
+<strong>Link Removed</strong>
 <p>
-<em>❤️کد نویسی توسط خودم❤️</em>
+Notic:
+<p>
+•This icon pack has been tested and works in <strong>Smart</strong> and <strong>Hyperion</strong> launchers
+<p>
+•Test this icon pack in other launchers and let us know in the comments
+<p>
+<em>Coding By Android.dev</em>
